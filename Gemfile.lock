@@ -167,7 +167,7 @@ GEM
       activesupport
     cbor (0.5.9.6)
     charlock_holmes (0.7.7)
-    chewy (7.3.2)
+    chewy (7.3.3)
       activesupport (>= 5.2)
       elasticsearch (>= 7.12.0, < 7.14.0)
       elasticsearch-dsl
@@ -592,7 +592,6 @@ GEM
     rspec-support (3.12.0)
     rspec_junit_formatter (0.6.0)
       rspec-core (>= 2, < 4, != 2.12.0)
-    rspec_chunked (0.6)
     rubocop (1.52.1)
       json (~> 2.3)
       parallel (~> 1.10)
