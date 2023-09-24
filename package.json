@@ -165,7 +165,7 @@
     "@types/npmlog": "^4.1.4",
     "@types/object-assign": "^4.0.30",
     "@types/pg": "^8.6.6",
-    "@types/prop-types": "^15.7.5",
+    "@types/prop-types": "^15.7.7",
     "@types/punycode": "^2.1.0",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
