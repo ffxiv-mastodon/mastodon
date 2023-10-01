@@ -93,7 +93,7 @@
     "npmlog": "^7.0.1",
     "path-complete-extname": "^1.0.0",
     "pg": "^8.5.0",
-    "postcss": "^8.4.24",
+    "postcss": "^8.4.31",
     "postcss-loader": "^4.3.0",
     "prom-client": "^14.2.0",
     "prop-types": "^15.8.1",
