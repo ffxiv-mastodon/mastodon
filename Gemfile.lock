@@ -1027,7 +1027,7 @@ DEPENDENCIES
   ruby-prof
   ruby-progressbar (~> 1.13)
   rubyzip (~> 2.3)
-  sanitize (~> 6.0)
+  sanitize (~> 6.1)
   scenic (~> 1.7)
   selenium-webdriver
   sidekiq (~> 6.5)
